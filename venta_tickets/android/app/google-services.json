@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "662488223663",
+    "project_id": "ventatickets-1ebc4",
+    "storage_bucket": "ventatickets-1ebc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662488223663:android:badf1610f885f515e4295a",
+        "android_client_info": {
+          "package_name": "com.example.venta_tickets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662488223663-p9biqsko259bv8u5l0pqbr2j1c0luchr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.venta_tickets",
+            "certificate_hash": "2e32a19c39305b92b95727579cb3555d0879dc38"
+          }
+        },
+        {
+          "client_id": "662488223663-d766qf8n8qu02kq878mjqdu7q34hqh1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmJZLUSku5gspLDoCteEZCRPiCEmKAdxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662488223663-d766qf8n8qu02kq878mjqdu7q34hqh1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
